@@ -1,0 +1,6 @@
+#+TITLE: Qtile Config
+#+AUTHOR: N R Shyamsundar Iyanger
+
+* My Qtile Config
+#+attr_html: :align center :class img :height 30 :width 10
+[[file:screenshots/just_the_clock_and_wall.png]]
